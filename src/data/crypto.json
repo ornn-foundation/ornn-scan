@@ -1,0 +1,44 @@
+{
+  "crypto": [
+    {
+      "params": "BTC_USDT",
+      "exchange": "BINANCE"
+    },
+    {
+      "params": "ETH_USDT",
+      "exchange": "BINANCE"
+    },
+    {
+      "params": "BNB_USDT",
+      "exchange": "BINANCE"
+    },
+    {
+      "params": "XRP_USDT",
+      "exchange": "BINANCE"
+    },
+    {
+      "params": "ADA_USDT",
+      "exchange": "BINANCE"
+    },
+    {
+      "params": "DOGE_USDT",
+      "exchange": "BINANCE"
+    },
+    {
+      "params": "SHIB_USDT",
+      "exchange": "BINANCE"
+    },
+    {
+      "params": "SOL_USDT",
+      "exchange": "BINANCE"
+    },
+    {
+      "params": "DOT_USDT",
+      "exchange": "BINANCE"
+    },
+    {
+      "params": "ARV_USDT",
+      "exchange": "BITTREX"
+    }
+  ]
+}

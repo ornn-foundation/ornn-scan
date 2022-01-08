@@ -1,0 +1,39 @@
+{
+  "menu": [
+    {
+      "link": "/",
+      "lang": {
+        "en": "Home",
+        "th": "Home"
+      }
+    },
+    {
+      "link": "/blockchain",
+      "lang": {
+        "en": "Blockchain",
+        "th": "Blockchain"
+      }
+    },
+    {
+      "link": "/tokens",
+      "lang": {
+        "en": "Tokens",
+        "th": "Tokens"
+      }
+    },
+    {
+      "link": "/resources",
+      "lang": {
+        "en": "Resources",
+        "th": "Resources"
+      }
+    },
+    {
+      "link": "/misc",
+      "lang": {
+        "en": "Misc",
+        "th": "Misc"
+      }
+    }
+  ]
+}
